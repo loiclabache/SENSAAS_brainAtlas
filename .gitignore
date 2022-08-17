@@ -38,6 +38,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# Folder
-readme_files
