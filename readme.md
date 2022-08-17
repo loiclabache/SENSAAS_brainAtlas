@@ -65,6 +65,10 @@ to Wernicke area (*STS3* & *STS4*).
 
 <img src="readme_files/metaAnalysis.png" width="85%" height="85%" style="display: block; margin: auto;" />
 
+<p align="center">
+<img src="readme_files/metaAnalysis.png" height="300" />
+</p>
+
 ------------------------------------------------------------------------
 
 ## Other atlases that might interest you
