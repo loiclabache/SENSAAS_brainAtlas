@@ -1,5 +1,7 @@
 Sentence Supramodal Areas Atlas (SENSAAS)
 ================
+Loïc Labache
+August 2022
 
 ## Reference
 
@@ -22,6 +24,8 @@ reading and listening). The temporal correlations at rest between these
 **Among these networks, one, including 18 regions, contains the
 essential language areas (*SENT_CORE* network)**, *i.e.* those whose
 lesion would cause an alteration in the understanding of speech.
+
+  
 
 <img src="readme_files/sentCore_volume.gif" width="50%" height="50%" style="display: block; margin: auto;" />
 
