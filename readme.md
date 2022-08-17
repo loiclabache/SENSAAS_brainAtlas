@@ -1,5 +1,7 @@
 Sentence Supramodal Areas Atlas (SENSAAS)
 ================
+Loïc Labache
+August 2022
 
 ## Reference
 
@@ -36,7 +38,7 @@ The `data` folder contains 3 files:
 -   `SENSAAS.nii`: NIfTI file containing the 32 brain language regions
     in the MNI space
 
-<img src="readme_files/SENSAAS.png" width="60%" height="60%" style="display: block; margin: auto;" />
+<img src="readme_files/SENSAAS.png" style="display: block; margin: auto;" />
 
 -   `SENSAAS.csv`: CSV file containing a full description of each
     language areas. The first column (*Index*) correspond to the index
