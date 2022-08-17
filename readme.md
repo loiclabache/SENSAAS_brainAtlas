@@ -36,7 +36,7 @@ The `data` folder contains 3 files:
 -   `read_me_SENSAAS.rtf`: README file containing information about the
     atlas
 -   `SENSAAS.nii`: NIfTI file containing the 32 brain language regions
-    in the MNI space  
+    in the MNI space
 
 <img src="readme_files/SENSAAS.png" width="60%" height="60%" style="display: block; margin: auto;" />
 
