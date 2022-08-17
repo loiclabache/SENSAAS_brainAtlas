@@ -3,7 +3,7 @@ Sentence Supramodal Areas Atlas (SENSAAS)
 
 ## Reference
 
-**Labache**, L., Joliot, M., Saracco, J., Jobard, G., Hesling, I., Zago,
+**Labache, L.**, Joliot, M., Saracco, J., Jobard, G., Hesling, I., Zago,
 L., … & Tzourio-Mazoyer, N. (2019). A SENtence Supramodal Areas AtlaS
 (SENSAAS) based on multiple task-induced activation mapping and graph
 analysis of intrinsic connectivity in 144 healthy right-handers. Brain
