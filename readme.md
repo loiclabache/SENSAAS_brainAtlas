@@ -23,7 +23,7 @@ reading and listening). The temporal correlations at rest between these
 essential language areas (*SENT_CORE* network)**, *i.e.* those whose
 lesion would cause an alteration in the understanding of speech.
 
-<img src="readme_files/sentCore_volume.gif" width="50%" height="50%" style="display: block; margin: auto 0 auto auto;" />
+<img src="readme_files/sentCore_volume.gif" width="50%" height="50%" style="display: block; margin: auto;" />
 
 ------------------------------------------------------------------------
 
