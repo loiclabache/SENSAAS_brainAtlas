@@ -14,6 +14,12 @@ Structure and Function, 224(2), 859-882. DOI:
 
 ## Background
 
+Here we develop and provide am atlas in standardized MNI volume space of
+32 sentence-related areas based on a 3-step method combining the
+analysis of activation and asymmetry during multiple language tasks with
+hierarchical clustering of resting-state connectivity and graph
+analyses.
+
 32 multimodal areas of sentence processing activated and leftward
 asymmetrical during sentence production, reading and listening were
 identified by comparison with a reference task (word list production,
@@ -31,21 +37,21 @@ lesion would cause an alteration in the understanding of speech.
 
 ## Data release
 
-The `data` folder contains 3 files:
+The `Atlas` folder contains 4 files:
 
 -   `read_me_SENSAAS.rtf`: README file containing information about the
     atlas
--   `SENSAAS.nii`: NIfTI file containing the 32 brain language regions
-    in the MNI space
+-   `SENSAAS_MNI_ICBM_152_2mm.nii`: NIfTI file containing the 32 brain
+    language regions in the MNI space
 
 <p align="center">
 <img src="readme_files/SENSAAS.png" width="70%" height="70%" />
 </p>
 
--   `SENSAAS.csv`: CSV file containing a full description of each
-    language areas. The first column (*Index*) correspond to the index
-    of each region that is used in the NIfTI file. The second column
-    (*ROI*) is the anatomical labels of each regions. The column
+-   `SENSAAS_description.csv`: CSV file containing a full description of
+    each language areas. The first column (*Index*) correspond to the
+    index of each region that is used in the NIfTI file. The second
+    column (*ROI*) is the anatomical labels of each regions. The column
     *Network* corresponded to which of the 3 networks a region belongs.
     Finaly, the MNI coordinate (columns *Xmm*, *Ymm*, *Zmm*) of each
     regions centroid is provided.
