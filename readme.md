@@ -36,7 +36,7 @@ The `data` folder contains 3 files:
 -   `SENSAAS.nii`: NIfTI file containing the 32 brain language regions
     in the MNI space
 
-<img src="readme_files/SENSAAS.png" width="60%" height="60%" style="display: block; margin: auto;" />
+<img src="readme_files/SENSAAS.png" width="70%" height="70%" style="display: block; margin: auto;" />
 
 -   `SENSAAS.csv`: CSV file containing a full description of each
     language areas. The first column (*Index*) correspond to the index
@@ -63,7 +63,7 @@ during language tasks. The anterior pole corresponded to the regions
 named *F3t*, equivalent to Broca area. The posterior pole corresponded
 to Wernicke area (*STS3* & *STS4*).
 
-<img src="readme_files/metaAnalysis.png" width="75%" height="75%" style="display: block; margin: auto;" />
+<img src="readme_files/metaAnalysis.png" width="85%" height="85%" style="display: block; margin: auto;" />
 
 ------------------------------------------------------------------------
 
