@@ -1,7 +1,5 @@
 Sentence Supramodal Areas Atlas (SENSAAS)
 ================
-Loïc Labache
-August 2022
 
 ## Reference
 
