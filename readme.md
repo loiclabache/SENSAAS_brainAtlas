@@ -14,7 +14,7 @@ Structure and Function, 224(2), 859-882. DOI:
 
 ## Background
 
-Here we develop and provide am atlas in standardized MNI volume space of
+Here we develop and provide an atlas in standardized MNI volume space of
 32 sentence-related areas based on a 3-step method combining the
 analysis of activation and asymmetry during multiple language tasks with
 hierarchical clustering of resting-state connectivity and graph
