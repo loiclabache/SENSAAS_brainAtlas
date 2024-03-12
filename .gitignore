@@ -38,3 +38,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+Script_GIF/
+Atlas/*.R
+.DS_Store

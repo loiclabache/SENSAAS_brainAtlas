@@ -1,33 +1,65 @@
-Index,ROI,Abbreviation,Network,Xmm,Ymm,Zmm
-1,G_Frontal_Sup-2,F1_2,SENT_CORE,-11.9,46.5,41.4
-2,S_Inf_Frontal-2,f2_2,SENT_CORE,-43.1,14.8,29.4
-3,G_Frontal_Inf_Tri-1,F3t,SENT_CORE,-49.4,25.6,4.7
-4,G_Frontal_Inf_Orb-1,F3O1,SENT_CORE,-42.2,30.5,-16.9
-5,S_Precentral-3,prec3,SENT_MEM,-18.2,-8.7,69.3
-6,S_Precentral-4,prec4,SENT_CORE,-42.2,0.7,49.9
-7,G_SupraMarginal-7,SMG7,SENT_CORE,-55.2,-51.7,25.5
-8,G_Angular-2,AG2,SENT_CORE,-37.5,-70.4,39.5
-9,G_Occipital_Inf-1,O3_1,SENT_VISU,-48.4,-69,-4.3
-10,G_Insula-anterior-1,INSa1,SENT_VISU,-20.3,5,-19.3
-11,G_Insula-anterior-2,INSa2,SENT_CORE,-33.8,16.8,-12.7
-12,G_Insula-anterior-3,INSa3,SENT_CORE,-33.7,23.7,0.6
-13,G_Temporal_Sup-4,T1_4,SENT_CORE,-58.7,-23.3,3.7
-14,S_Sup_Temporal-1,STS1,SENT_CORE,-49.7,14,-21.5
-15,S_Sup_Temporal-2,STS2,SENT_CORE,-54.9,-7.2,-12.8
-16,S_Sup_Temporal-3,STS3,SENT_CORE,-54.7,-33,-1.7
-17,S_Sup_Temporal-4,STS4,SENT_CORE,-56.5,-48.4,13.4
-18,G_Temporal_Mid-3,T2_3,SENT_CORE,-61,-35,-4.8
-19,G_Temporal_Mid-4,T2_4,SENT_CORE,-53.1,-59.4,7
-20,G_Temporal_Inf-4,T3_4,SENT_VISU,-50,-60.6,-7.6
-21,G_Supp_Motor_Area-2,SMA2,SENT_CORE,-10.6,18.2,63.1
-22,G_Supp_Motor_Area-3,SMA3,SENT_CORE,-7.2,7.6,65.6
-23,G_Cingulum_Post-3,CINGp3,SENT_MEM,-5.1,-42.9,10
-24,G_Paracentral_Lobule-4,pCENT4,SENT_MEM,-6.4,-29.2,75.9
-25,G_Precuneus-6,PRECU6,SENT_MEM,-7.4,-61.3,64.1
-26,G_Hippocampus-2,HIPP2,SENT_MEM,-24.9,-32.5,-2.7
-27,G_ParaHippocampal-1,pHIPP1,SENT_VISU,-15.7,-4,-18.4
-28,G_Fusiform-4,FUS4,SENT_VISU,-43.1,-49.8,-17.4
-29,N_Amygdala-1,AMYG,SENT_VISU,-21.9,-0.4,-11.5
-30,N_Putamen-2,PUT2,SENT_VISU,-23.3,6.3,0.8
-31,N_Putamen-3,PUT3,SENT_VISU,-28,-6.3,1.8
-32,N_Thalamus-4,THA4,SENT_MEM,-3.2,-14.4,8.4
+Network,Abbreviation,Region,Hemisphere,Index,Xmm,Ymm,Zmm,Number of Voxels,Volume mm3
+SENT_CORE,AG2,Angular Gyrus (2),Left,103,-37.54,-70.44,39.47,519,4152
+SENT_CORE,AG2,Angular Gyrus (2),Right,104,44.50,-62.37,36.28,555,4440
+SENT_VISU,AMYG,Amygdala,Left,345,-21.93,-0.41,-11.50,212,1696
+SENT_VISU,AMYG,Amygdala,Right,346,21.13,1.65,-12.28,197,1576
+SENT_MEM,CINGp3,Posterior Cingulum Gyrus (3),Left,255,-5.07,-42.89,10.04,45,360
+SENT_MEM,CINGp3,Posterior Cingulum Gyrus (3),Right,256,5.78,-42.38,10.30,73,584
+SENT_CORE,f2_2,inferior frontal sulcus (2),Left,31,-43.11,14.84,29.41,1116,8928
+SENT_CORE,f2_2,inferior frontal sulcus (2),Right,32,43.94,18.51,28.38,1138,9104
+SENT_CORE,F1_2,Superior Frontal Gyrus (2),Left,3,-11.88,46.49,41.42,1108,8864
+SENT_CORE,F1_2,Superior Frontal Gyrus (2),Right,4,12.02,45.06,41.82,1168,9344
+SENT_CORE,F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),Left,41,-42.18,30.53,-16.87,180,1440
+SENT_CORE,F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),Right,42,44.22,33.02,-14.43,264,2112
+SENT_CORE,F3t,Inferior Frontal Gyrus : Pars Triangularis,Left,33,-49.44,25.56,4.68,1289,10312
+SENT_CORE,F3t,Inferior Frontal Gyrus : Pars Triangularis,Right,34,49.83,28.54,5.02,967,7736
+SENT_VISU,FUS4,Fusiform Gyrus (4),Left,337,-43.13,-49.79,-17.41,458,3664
+SENT_VISU,FUS4,Fusiform Gyrus (4),Right,338,44.13,-46.04,-17.75,375,3000
+SENT_MEM,HIPP2,Hippocampus (2),Left,319,-24.94,-32.46,-2.69,437,3496
+SENT_MEM,HIPP2,Hippocampus (2),Right,320,25.01,-31.37,-1.99,485,3880
+SENT_VISU,INSa1,Anterior Insula (1),Left,145,-20.34,4.95,-19.33,252,2016
+SENT_VISU,INSa1,Anterior Insula (1),Right,146,19.35,7.05,-19.07,317,2536
+SENT_CORE,INSa2,Anterior Insula (2),Left,147,-33.79,16.79,-12.74,399,3192
+SENT_CORE,INSa2,Anterior Insula (2),Right,148,34.70,18.47,-12.73,273,2184
+SENT_CORE,INSa3,Anterior Insula (3),Left,149,-33.74,23.68,0.58,469,3752
+SENT_CORE,INSa3,Anterior Insula (3),Right,150,36.80,24.21,-0.33,721,5768
+SENT_VISU,O3_1,Inferior Occipital Gyrus (1),Left,141,-48.42,-68.99,-4.30,139,1112
+SENT_VISU,O3_1,Inferior Occipital Gyrus (1),Right,142,49.90,-60.21,-8.76,180,1440
+SENT_MEM,pCENT4,Paracentral Lobule (4),Left,263,-6.39,-29.17,75.90,248,1984
+SENT_MEM,pCENT4,Paracentral Lobule (4),Right,264,7.17,-28.66,75.71,225,1800
+SENT_VISU,pHIPP1,ParaHippocampal Gyrus (1),Left,321,-15.72,-4.03,-18.36,231,1848
+SENT_VISU,pHIPP1,ParaHippocampal Gyrus (1),Right,322,14.13,-3.68,-17.84,211,1688
+SENT_MEM,prec3,precentral sulcus (3),Left,55,-18.19,-8.70,69.30,74,592
+SENT_MEM,prec3,precentral sulcus (3),Right,56,19.75,-6.35,67.70,40,320
+SENT_CORE,prec4,precentral sulcus (4),Left,57,-42.18,0.72,49.91,766,6128
+SENT_CORE,prec4,precentral sulcus (4),Right,58,43.66,1.00,48.36,540,4320
+SENT_MEM,PRECU6,Precuneus (6),Left,275,-7.41,-61.26,64.06,276,2208
+SENT_MEM,PRECU6,Precuneus (6),Right,276,7.97,-59.91,63.68,305,2440
+SENT_VISU,PUT2,Putamen (2),Left,363,-23.30,6.26,0.78,640,5120
+SENT_VISU,PUT2,Putamen (2),Right,364,23.23,7.35,0.77,626,5008
+SENT_VISU,PUT3,Putamen (3),Left,365,-28.01,-6.26,1.77,704,5632
+SENT_VISU,PUT3,Putamen (3),Right,366,28.53,-4.10,0.86,745,5960
+SENT_CORE,SMA2,Supplementary Motor Area (2),Left,223,-10.56,18.18,63.12,268,2144
+SENT_CORE,SMA2,Supplementary Motor Area (2),Right,224,10.54,18.48,62.88,218,1744
+SENT_CORE,SMA3,Supplementary Motor Area (3),Left,225,-7.21,7.64,65.58,527,4216
+SENT_CORE,SMA3,Supplementary Motor Area (3),Right,226,6.39,10.05,66.47,275,2200
+SENT_CORE,SMG7,SupraMarginal Gyrus (7),Left,99,-55.21,-51.67,25.51,303,2424
+SENT_CORE,SMG7,SupraMarginal Gyrus (7),Right,100,55.36,-45.90,33.41,125,1000
+SENT_CORE,STS1,superior temporal sulcus (1),Left,169,-49.71,14.02,-21.55,326,2608
+SENT_CORE,STS1,superior temporal sulcus (1),Right,170,52.12,13.36,-25.86,85,680
+SENT_CORE,STS2,superior temporal sulcus (2),Left,171,-54.86,-7.17,-12.75,403,3224
+SENT_CORE,STS2,superior temporal sulcus (2),Right,172,54.32,-2.50,-15.50,767,6136
+SENT_CORE,STS3,superior temporal sulcus (3),Left,173,-54.68,-33.01,-1.67,629,5032
+SENT_CORE,STS3,superior temporal sulcus (3),Right,174,53.05,-31.88,-0.27,641,5128
+SENT_CORE,STS4,superior temporal sulcus (4),Left,175,-56.55,-48.37,13.36,642,5136
+SENT_CORE,STS4,superior temporal sulcus (4),Right,176,54.61,-45.53,14.61,840,6720
+SENT_CORE,T1_4,Superior Temporal Gyrus (4),Left,167,-58.75,-23.25,3.73,832,6656
+SENT_CORE,T1_4,Superior Temporal Gyrus (4),Right,168,60.05,-19.98,2.20,729,5832
+SENT_CORE,T2_3,Middle Temporal Gyrus (3),Left,183,-60.97,-35.03,-4.80,266,2128
+SENT_CORE,T2_3,Middle Temporal Gyrus (3),Right,184,62.34,-30.88,-4.71,241,1928
+SENT_CORE,T2_4,Middle Temporal Gyrus (4),Left,185,-53.09,-59.39,7.03,496,3968
+SENT_CORE,T2_4,Middle Temporal Gyrus (4),Right,186,56.80,-53.22,2.97,269,2152
+SENT_VISU,T3_4,Inferior Temporal Gyrus (4),Left,193,-50.02,-60.63,-7.64,410,3280
+SENT_VISU,T3_4,Inferior Temporal Gyrus (4),Right,194,54.06,-57.86,-10.55,226,1808
+SENT_MEM,THA4,Thalamus (4),Left,373,-3.22,-14.39,8.41,87,696
+SENT_MEM,THA4,Thalamus (4),Right,374,3.29,-14.46,8.94,96,768
