@@ -106,5 +106,4 @@ to Wernicke area (*STS3* & *STS4*).
 
 ## Questions
 
-Please contact me (Loïc Labache) as <loic.labache@yale.edu> and/or
-<loic.labache@ensc.fr>
+Please contact me (Loïc Labache) as <loic.labache@rutgers.edu>
